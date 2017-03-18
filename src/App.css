@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  background: url(assets/img/popcorn.jpg) no-repeat;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 60s linear;
+  height: 100px;
+  margin-top: 50px;
+}
+
+.App-footer {
+  color: white;
+  padding: 10px;
+  margin-top: 50px;
+}
+
+.App-footer a {
+  text-decoration: none;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(360deg); }
+  to { transform: rotate(0deg); }
+}
